@@ -1,0 +1,8 @@
+{
+    "config": {
+        "bin-dir": "bin",
+        "github-oauth": {
+          "github.com": "%youroauthtoken%"
+        }
+ }
+
